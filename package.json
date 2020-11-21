@@ -1,0 +1,12 @@
+{
+  "name": "@grain/js-stub",
+  "version": "1.0.0",
+  "description": "An empty stub package exposing a JavaScript bin program. Used so esy will create a node wrapper.",
+  "main": "index.js",
+  "bin": {
+    "js-stub": "index.js"
+  },
+  "repository": "grain-lang/js-stub",
+  "author": "Blaine Bublitz <blaine@grain-lang.org>",
+  "license": "Apache-2.0"
+}
